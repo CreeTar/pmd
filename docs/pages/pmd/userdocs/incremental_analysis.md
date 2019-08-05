@@ -23,8 +23,7 @@ untouched, files with violations will be listed with full detail. Therefore, its
 
 Incremental analysis is enabled automatically once a location to store the cache has been defined.
 From command-line that is done through the [`-cache`](pmd_userdocs_cli_reference.html#cache) argument, but support for the feature is
-available for tools integrating PMD such as [Ant](pmd_userdocs_tools_ant.html),
-[Maven](pmd_userdocs_tools_maven.html), and Gradle.
+available for tools integrating PMD such as [Ant](pmd_userdocs_tools_ant.html) and [Maven](pmd_userdocs_tools_maven.html).
 
 
 ### Disabling incremental analysis
